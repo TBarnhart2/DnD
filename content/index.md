@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Thaia Campaign Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my DnD Campaign Wiki! This is for the Thaia campaign, so please feel free to look around! If you have any questions or want something added, let me know
+
+To-Do/Add
+- Location Details
+- World History
+- Character Sections
+- Create All Cards & Number Them
+- Add the party's details of how they got together & their goals
