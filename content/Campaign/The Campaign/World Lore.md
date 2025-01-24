@@ -1,1 +1,1 @@
-Here is where world lore goes
+Here is where world lore goes - more info
