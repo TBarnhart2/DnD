@@ -2,16 +2,16 @@
 ![[Tua Picture.jpg]]
 
 ## Stats
-**Name**: Tua
-Height: 5'9"
-Weight: 495 lbs
-Age: 21
-Class: Monk 6
-Subclass: Way of Mercy
-Race/Species: Tortle
-Background: Traveler
+**Name:** Tua
+**Height:** 5'9"  
+**Weight:** 495 lbs  
+**Age:** 21  
+**Class:** Monk 6  
+**Subclass:** Way of Mercy  
+**Race/Species:** Tortle  
+**Background:** Traveler  
 
-### Tatang
+#### Tatang
 Tatang is a baby Green Wyvern that is loyal to Tua
 
 Tatang can make Bite and Sting attacks as an action on their turn
