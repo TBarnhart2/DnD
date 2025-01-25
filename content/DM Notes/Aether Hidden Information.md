@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 ## Aetherborn Groups
 #### The Whisperwind
 
@@ -21,7 +25,7 @@
 - **Historical Significance**: Their connection to the lunar cycles likely influenced early navigation, fishing practices, and agricultural planning. Their legends may have inspired stories of moon goddesses, werewolves, and other creatures of the night.
 
 
-#### The Shadowborn
+#### The Shadowborn AKA The Damned
 
 - **Historical Significance**: The Shadowborn, with their focus on secrecy and subterfuge, may have played a significant role in shaping the political and social landscape. Their influence may be seen in the development of secret societies, espionage networks, and even the concept of individual liberty.
 

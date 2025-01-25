@@ -32,7 +32,7 @@ Aetherium, typically found in deep caverns and within certain mountain ranges, i
 - **Known:** To some as secretive inventors, alchemists, or even rogue engineers. Their inventions may be both admired and feared.
 - **Goals:** To rediscover the lost knowledge of their ancestors, focusing on safe and responsible applications of Aetherium technology. They may seek to guide the world towards a more sustainable and harmonious future.
 
-#### The Shadowborn
+#### The Shadowborn AKA The Damned
 
 - **Location:** Hidden in the shadows of major cities, operating as secret societies, guilds, or even criminal organizations. Some may reside in remote, inhospitable regions.
 - **Known:** To some as shadowy figures, spies, or even assassins. Their motives are often shrouded in mystery.

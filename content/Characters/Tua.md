@@ -3,12 +3,19 @@
 
 ## Stats
 **Name:** Tua
+
 **Height:** 5'9"  
-**Weight:** 495 lbs  
+**
+Weight:** 495 lbs  
+
 **Age:** 21  
+
 **Class:** Monk 6  
+
 **Subclass:** Way of Mercy  
+
 **Race/Species:** Tortle  
+
 **Background:** Traveler  
 
 #### Tatang
