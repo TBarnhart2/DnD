@@ -23,7 +23,9 @@ The courtyard is an outdoor area within your facility that has a large tree in t
 
 ### Bastion Options
 ##### Arcane Study
+
 *Level 5 Bastion Facility*
+
 **Prerequisite:** Ability to use an Arcane Focus or tool as a Spellcasting Focus
 **Space:** Roomy
 **Hirelings:** 1
@@ -42,7 +44,9 @@ An Arcane Study is a place of quiet research that contains one or more desks and
 **Craft: Magic Item (Arcana).** If you are level 9+, you can commission the facility's hireling to craft a Common or an Uncommon magic item chosen by you from the Arcana tables in chapter 7. The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the Arcana skill. See the "Crafting Magic Items" section in chapter 7 for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hireling can assist), and you must have all those spells prepared every day you spend crafting the item.
 
 ##### Armory
+
 *Level 5 Bastion Facility*
+
 **Prerequisite:** None
 **Space:** Roomy
 **Hirelings:** 1
@@ -55,7 +59,9 @@ While your Armory is stocked, your Bastion Defenders are harder to kill. When an
 
 
 ##### Barrack
+
 *Level 5 Bastion Facility*
+
 **Prerequisite:** None
 **Space:** Roomy or Vast
 **Hirelings:** 1
@@ -70,7 +76,9 @@ Keep track of the Bastion Defenders housed in each of your Barracks. If you lose
 
 
 ##### Garden
+
 *Level 5 Bastion Facility*
+
 **Prerequisite:** None
 **Space:** Roomy or Vast 
 **Hirelings:** 1 (Roomy) or 2 (Vast)
@@ -94,7 +102,9 @@ While in your Bastion, you can instruct the facility's hireling to change the Ga
 
 
 ##### Library
+
 *Level 5 Bastion Facility*
+
 **Prerequisite:** None
 **Space:** Roomy
 **Hirelings:** 1
@@ -106,7 +116,9 @@ This Library contains a collection of books plus one or more desks and reading c
 
 
 ##### Sanctuary
+
 *Level 5 Bastion Facility*
+
 **Prerequisite:** Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
 **Space:** Roomy
 **Hirelings:** 1
