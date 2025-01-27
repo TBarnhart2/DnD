@@ -24,7 +24,8 @@ Everyone needs to make their DnD character at level 3! We are using the new DnD 
 	g. Fill out your *Saving Throw Proficiencies* above your skill proficiencies (fill the bubble)
 1. Choose your [***Species***](http://dnd2024.wikidot.com/species:all)
 	a. Here you get your *speed* and *size*, as well as *species traits* to use
-3. Choose your [***Background***](http://dnd2024.wikidot.com/background:all)
+	b. I do allow [custom/separate](https://dnd5e.wikidot.com/#toc2) species as long as you check with me first! 
+1. Choose your [***Background***](http://dnd2024.wikidot.com/background:all)
 	a. Here you get your *ability score increases*. put 2 in 1 of the options and 1 in another option and note those next to those scores on your front page 
 	b. You also get 2 *proficiencies* and some *equipment* (take the gold value)
 	c. For the feat, you will not choose this. instead, you will choose a beginner feat in the beginner feats section.
@@ -82,6 +83,7 @@ Everyone needs to make their DnD character at level 3! We are using the new DnD 
 	
 8. Be Creative
 	a. Come up with some cool unique features of your character/how they look. If you need a magical item or 2 for fun, just ask. I will also make class changes or race changes to allow for fun/creative characters. I once had a magical weed pipe my character always smoked -> fun and not real in-game use
+	b. ***FLAVOR IS FREE*** - Have fun with it! I will allow small changes to characters to fit a theme more or a character you want. I once made a spellcaster robot who casted spells by creating water balloon-like balls and launching them out of his forearm (instead of using a staff or wand). This was fun and gave me no real benefit in game, but made the character unique.
 	
 9. Write your backstory!
 	a. Be specific/detailed! I need to know where you came from and what your goals are. There more you write, the better the campaign will be.

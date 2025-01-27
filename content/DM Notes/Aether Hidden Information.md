@@ -57,6 +57,13 @@ A device that allows the user to see the flow of Aether, not just in themselves 
 
 When a party member attunes to the Aetheric Lens, they gain the ability to cast the _Detect Magic_ spell once per long rest. Additionally, while attuned, the party gains advantage on Wisdom (Perception) checks to notice hidden objects, creatures, or traps concealed by magical means.
 
+###### Pieces
+- Crystal Lens
+- Outer Casing
+- Small Blue Stone
+
+
+
 #### The Heart of Aether
 ![[Pasted image 20250124175037.png]]
 **The Heart of Aether:** A powerful artifact that could temporarily stabilize and amplify the flow of Aether in a specific location. This could be used to:
@@ -66,6 +73,13 @@ When a party member attunes to the Aetheric Lens, they gain the ability to cast 
 - **Power grand projects:** Provide a sustainable and renewable energy source for massive undertakings, such as building colossal structures, terraforming barren lands, or even powering intercontinental transportation networks.
 
 When attuned to the Heart of Aether, the party gains a pool of temporary hit points equal to their level. These temporary hit points refresh at the start of each of their turns. Additionally, the party gains advantage on saving throws against spells and other magical effects.
+
+###### Pieces
+- Top Half
+- Left Half
+- Right Half
+
+
 
 ####  The Weaver's Loom
 ![[Pasted image 20250124175151.png]]
@@ -77,6 +91,11 @@ When attuned to the Heart of Aether, the party gains a pool of temporary hit poi
 
 When attuned to the Weaver's Loom, the party gains the ability to cast the _Illusion_ spell once per long rest. Additionally, while attuned, the party can create minor illusions as a bonus action.
 
+###### Pieces
+- 
+
+
+
 #### The Soulstone
 ![[Pasted image 20250124175225.png]]
 **The Soulstone:** A device that could interact with the soul, allowing the user to:
@@ -86,6 +105,11 @@ When attuned to the Weaver's Loom, the party gains the ability to cast the _Illu
 - **Enhance their own abilities:** To unlock hidden potential, increase their understanding of the universe, and even achieve a higher state of consciousness.
 
 When attuned to the Soulstone, the party gains the ability to cast the _Speak with Dead_ spell once per long rest. Additionally, while attuned, the party gains advantage on Charisma (Intimidation) and Charisma (Persuasion) checks.
+
+###### Pieces
+- Top Half
+- Bottom Half
+- "Glue" - This needs to be something extremely hard to get - blood? Tears of a dragon?
 
 ## Hidden Info
 
