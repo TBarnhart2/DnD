@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126191157.png]]
+
 Jakunta, the Emerald City, is a sprawling metropolis nestled deep within the heart of a lush, verdant island. Known for its reverence for nature and its ingenious use of Aetheric technology, Jakunta is a unique blend of ancient traditions and modern innovation.
 
 - **Main Imports:** Exotic woods, rare herbs and spices, and furs from the surrounding wilderness.

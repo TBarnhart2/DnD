@@ -16,9 +16,27 @@ The kitchen is stocked with rations and feeds you and your group. Whatever you w
 ##### Courtyard
 The courtyard is an outdoor area within your facility that has a large tree in the middle, as well as benches. 
 
+##### Captain's Quarters
+Upstairs is a captain's quarters, with a desk and chests surrounding. 
+
+##### Map Room
+Opposite the Captain's Quarters is a large map room, with a table in the center with the World map on it.
+
+
 #### Special Facilities
 
 
+
+##### Hirelings
+###### Lyra
+- **Appearance:** Lyra is a lithe and graceful half-elf with long, flowing silver hair that she often wears in a braid. Her eyes are a striking shade of emerald green, and she moves with an almost feline grace.
+- **Personality:** Lyra is a free spirit, more comfortable scaling cliffs and tracking prey than navigating the social intricacies of court. She is fiercely loyal to those she considers friends, but her independent nature can sometimes clash with authority. Lyra possesses a dry wit and enjoys teasing her companions, though she always has their backs in a fight.
+- **Mannerisms:** Lyra often whistles a lively tune as she moves, a habit she picked up during her years spent living amongst the nomadic tribes of the plains. She has a habit of fidgeting when indoors, constantly adjusting her weapons or looking for an escape route.
+
+##### Kaelen
+- **Appearance:** Kaelen is a tall and slender half-elf with a scholarly air. He wears glasses perched on his nose and carries a well-worn book under his arm at all times. His hair is a dark brown, streaked with silver, and his eyes are a deep, thoughtful blue.
+- **Personality:** Kaelen is a quiet and observant individual, more comfortable in the company of books than people. He possesses a vast knowledge of history, lore, and arcane theory, and he is eager to share his knowledge with others. Kaelen can be somewhat timid and easily overwhelmed by social situations, but he is fiercely loyal to his friends and will always offer his support in times of need.
+- **Mannerisms:** Kaelen often tucks a stray strand of hair behind his ear and adjusts his glasses when deep in thought. He has a habit of muttering to himself as he reads, often reciting passages from ancient texts.
 
 
 ### Bastion Options

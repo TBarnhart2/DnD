@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126190236.png]]
+
 Nestled amidst a sprawling outback, D'Unda is a city built on resilience and a "no worries" attitude. Known for its laid-back lifestyle and love for the outdoors, D'Unda has a unique blend of rugged charm and burgeoning technological advancement.
 
 - **Main Import:** Livestock, furs, and mining resources from the surrounding outback.

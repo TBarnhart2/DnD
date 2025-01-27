@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126191450.png]]
+
 Preya is a sprawling expanse of plains, dotted with vibrant cities and bustling trade routes. Known for its vast open spaces, fertile lands, and a deep respect for tradition, Preya is a land of vibrant cultures and ancient lore.
 
 - **Main Imports:** Exotic spices, fine textiles, and luxury goods from coastal cities and far-flung lands.

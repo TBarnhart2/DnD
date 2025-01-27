@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126191914.png]]
+
 The Bleaks, a rugged archipelago of islands and jagged cliffs, dominates the southeastern coast. A land of stark beauty and harsh realities, the Bleaks are known for their fierce independence, their mastery of the sea, and their unique relationship with Aether.
 
 - **Main Imports:** Exotic spices, fine silks, and rare metals from distant lands, often acquired through daring seafaring expeditions.

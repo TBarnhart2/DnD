@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126190758.png]]
+
 Esari, an island nation renowned for its technological prowess and independent spirit, dominates the skies with its intricate network of blimps. This island nation, roughly the size of Japan, is a marvel of ingenuity and a beacon of progress in a world still grappling with the early stages of Aetheric technology.
 
 - **Main Import:** Raw materials, exotic spices, and luxury goods from across the globe, often acquired through trade deals brokered by their skilled diplomats and merchants.

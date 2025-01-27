@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126190533.png]]
+
 Dracordia, a sprawling metropolis of obsidian and chrome, dominates the skyline like a slumbering dragon. This city, a testament to Dragonborn ingenuity, is a hub of trade, innovation, and unparalleled power.
 
 - **Main Import:** Rare metals, exotic spices.
@@ -11,10 +14,10 @@ Dracordia, a sprawling metropolis of obsidian and chrome, dominates the skyline 
 
 **Racial Composition:**
 
-Dracordia is overwhelmingly populated by Dragonborn, though a small but influential minority of humans, elves, and dwarves reside within its towering walls, often serving as merchants, artisans, or slaves.
+Dracordia is overwhelmingly populated by Dragonborn, though a small but influential minority of humans, elves, and dwarves reside within its towering walls, often serving as merchants and artisans.
 
 **Government:**
 
 Dracordia is ruled by a Draconic Council, comprised of the most powerful and influential Dragonborn clans. This council wields absolute authority, with dissent swiftly and brutally suppressed. The city operates on a strict caste system, with Dragonborn occupying the highest positions of power and wealth, while other races are relegated to subservient roles.
 
-Dracordia is a city of stark contrasts – a beacon of technological advancement, yet built on a foundation of oppression and exploitation. Its influence extends far beyond its borders, casting a long shadow over the world and shaping the destiny of countless lives.
+ Its influence extends far beyond its borders, casting a long shadow over the world and shaping the destiny of countless lives.

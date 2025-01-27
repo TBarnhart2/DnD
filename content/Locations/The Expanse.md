@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126192017.png]]
+
 The Expanse, a vast, unforgiving desert stretching across the heart of the continent, is a land of extremes. Life here is a constant struggle against the scorching sun, the relentless winds, and the ever-present threat of dehydration. Despite these harsh conditions, pockets of civilization have emerged, built on resilience, ingenuity, and a deep understanding of the desert's rhythms.
 
 - **Main Imports:** Water, food, and luxury goods from coastal cities and fertile regions.

@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126190912.png]]
+
 The Hammerhead Isles are a chain of rugged islands, each with its own unique character, stretching along the southeast coast of the world. These islands are renowned for their fierce independence, their mastery of the sea, and their unique relationship with Aether.
 
 - **Main Imports:** Exotic spices, fine silks, and rare metals from distant lands, often acquired through daring seafaring expeditions.

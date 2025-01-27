@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126191733.png]]
+
 Skoda, a city carved into the icy slopes of the world's coldest region, is a testament to human ingenuity and resilience. Known for its renowned Cinderwind College and its mastery of cold weather survival, Skoda is a beacon of knowledge and innovation in a harsh and unforgiving environment.
 
 - **Main Imports:** Exotic furs, rare spices from warmer climates, and intricately crafted goods from more temperate regions.

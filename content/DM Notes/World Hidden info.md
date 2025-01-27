@@ -1,7 +1,7 @@
 ---
 draft: "true"
 ---
-## Cities
+## Territories
 ### D'Unda
 - **The Dreamtime Dreaming:** Deep within the heart of the outback, there exists a sacred site known as the Dreaming Grounds. Here, during certain lunar cycles, the very fabric of reality shifts, allowing glimpses into the Dreamtime, a realm of ancient spirits and forgotten knowledge.
     
@@ -12,8 +12,7 @@ draft: "true"
 
 
 ### Dracordia
-- **Import:** Slaves
-- **The Obsidian Heart:** Deep beneath the city, rumored to lie beneath the very foundations of the city, beats the Obsidian Heart, a massive Aetherium engine that powers the city's defenses and fuels the ambition of the Dragonborn elite. This engine, however, is said to be fueled by the life force of the enslaved, draining their vitality to maintain Dracordia's dominance.
+- **The Obsidian Heart:** Deep beneath the city, rumored to lie beneath the very foundations of the city, beats the Obsidian Heart, a massive Aetherium engine that powers the city's defenses and fuels the ambition of the Dragonborn elite.
 
 - **Potential Impact:** If the Obsidian Heart were to be disrupted or destroyed, it would have catastrophic consequences for Dracordia, plunging the city into chaos and potentially weakening its grip on power. The party might be tasked with finding a way to liberate the enslaved and shut down the Obsidian Heart, restoring balance to the city.
 
@@ -32,6 +31,8 @@ draft: "true"
 
 These hidden aspects of Esari add a layer of intrigue and depth to the city, hinting at a past shrouded in mystery and suggesting a future filled with both promise and peril.
 
+
+
 #### Hammerhead Isles
 - **The Sunken City of Lyra:** Beneath the waves, near the deepest point of the archipelago, lies the ruins of Lyra, a once-powerful civilization that mysteriously vanished centuries ago. Lyra was rumored to possess advanced Aetheric technology, far surpassing anything seen today.
     
@@ -42,6 +43,7 @@ These hidden aspects of Esari add a layer of intrigue and depth to the city, hin
 - **The Whispering Reef:** A hidden reef, rumored to be haunted by the spirits of lost sailors, lies off the coast of the largest island. This reef is said to be imbued with a unique form of Aetheric energy, capable of granting visions of the future or communicating with the spirits of the dead.
     
     - **Potential Impact:** The party might be drawn to the Whispering Reef to seek guidance, uncover lost secrets, or even attempt to contact the spirits of deceased loved ones. However, the reef is also known to be treacherous, and those who venture too close may face unforeseen dangers.
+
 
 
 #### Jakunta
@@ -56,6 +58,7 @@ These hidden aspects of Esari add a layer of intrigue and depth to the city, hin
     - **Potential Impact:** The breaking of the pact could unleash a wave of natural disasters, unleashing the wrath of the forest spirits upon the city and its inhabitants. The party might be tasked with investigating the disturbances, uncovering the true nature of the pact, and ensuring the continued harmony between the city and the surrounding wilderness.
 
 
+
 #### Kragheim
 - **The Stonebinder Legacy:** Deep within the heart of Kragheim, hidden beneath layers of rock and stone, lies the ancient workshop of the first Stonebinders. This workshop, rumored to contain lost technologies and forbidden knowledge, is guarded by powerful wards and deadly traps.
     
@@ -68,6 +71,7 @@ These hidden aspects of Esari add a layer of intrigue and depth to the city, hin
     - **Potential Impact:** The party might be tasked with investigating the disturbances, uncovering the true nature of the pact, and ensuring the continued harmony between the city and the surrounding wilderness.
 
 
+
 #### Preya
 - **The Sunborn Legacy:**
     
@@ -77,6 +81,8 @@ These hidden aspects of Esari add a layer of intrigue and depth to the city, hin
     
 - **The Curse of the Sunburn:** While the immediate effects of the Sunburn have subsided, some believe that a lingering curse still afflicts the land. This curse manifests in subtle ways, such as unpredictable weather patterns, occasional surges of solar energy, and a lingering fear of the sun among certain populations. * **Potential Impact:** The party might encounter individuals or communities affected by the lingering curse, requiring them to find a way to break the curse or mitigate its effects.
     
+
+
 
 #### Skoda
 - **The Frozen Archives:** Deep beneath the ice, rumored to lie beneath the very foundations of the city, exist ancient archives, sealed away centuries ago. These archives are said to contain forbidden knowledge, including dangerous experiments with Aetheric manipulation and potentially even a way to control the very forces of winter.
@@ -88,6 +94,7 @@ These hidden aspects of Esari add a layer of intrigue and depth to the city, hin
 - **The Undercurrent:** Beneath the ice, a powerful current of raw Aetheric energy flows, influencing the very fabric of reality. This "Undercurrent" is the source of Skoda's unique magic, but it also holds immense potential for both good and evil.
     
     - **Potential Impact:** The party might encounter individuals or factions seeking to harness the power of the Undercurrent for their own ends, potentially unleashing devastating consequences upon the city and the surrounding region.
+
 
 
 #### The Bleaks
@@ -102,6 +109,7 @@ The Bleaks, with their rugged beauty and history of seafaring, hold many secrets
 - **The Whispering Reef:** A hidden reef, rumored to be haunted by the spirits of lost sailors, lies off the coast of the largest island. This reef is said to be imbued with a unique form of Aetheric energy, capable of granting visions of the future or communicating with the spirits of the dead.
     
     - **Potential Impact:** The party might be drawn to the Whispering Reef to seek guidance, uncover lost secrets, or even attempt to contact the spirits of deceased loved ones. However, the reef is also known to be treacherous, and those who venture too close may face unforeseen dangers.
+
 
 
 #### The Expanse

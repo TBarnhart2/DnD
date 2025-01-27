@@ -1,3 +1,6 @@
+
+![[Pasted image 20250126191328.png]]
+
 Kragheim, a city carved into the very heart of a colossal mountain, is a testament to the ingenuity and resilience of its inhabitants. This city, once the stronghold of the ancient Stonebinders, continues to echo with the whispers of its past.
 
 - **Main Imports:** High-grade ores, precious gems, and exotic goods from far-flung corners of the world.
