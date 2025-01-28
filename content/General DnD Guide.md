@@ -18,3 +18,10 @@ You do not need to use all of these every round, and some effects can take these
 Money is all in a line as 10x the lower one
 1 Platinum (PP) = 10 Gold (GP) = 100 Silver (SP) = 1000 Copper (CP)
 - We do NOT use Ethereum (EP), as this currency is GARBAGE
+
+#### DnD Notation
+Every ability/skill has a shortened version
+ex. Con = Constitution, Ath = Athletics, etc
+
+When you see something like 2d8, this means roll 2 d8 die
+When you see 6d6, you roll a d6 6 times and add them

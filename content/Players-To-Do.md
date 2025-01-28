@@ -9,6 +9,8 @@ Everyone needs to make their DnD character at level 3! We are using the new DnD 
 
 *Tip:* Use Google to find places to start (i.e. what is the best race for Cleric? - what are the best level 1 spells for Druid?)
 
+*Tip 2:* Want to play Ranger? HA! **DON'T!!*** They suck ASS. Play fighter and just choose stuff to make you a ranger (unless you have a very specific Ranger build you want to play, ask me so I can help out)
+
 ###### Key
 **Important**
 *Goes On Sheet Somewhere*
