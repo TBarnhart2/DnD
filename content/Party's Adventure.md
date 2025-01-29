@@ -11,6 +11,8 @@ Next session (1), we will officially be jumping into a larger adventure!
 
 We will look over everyone's character sheets and make sure they are alright
 
+Change your intimidation to strength (since charisma is stupid)
+
 Then, you will get some random surprises!
 
 Once character's are set, we will move on to the next section

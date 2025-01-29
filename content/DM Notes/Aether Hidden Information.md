@@ -118,3 +118,5 @@ When attuned to the Soulstone, the party gains the ability to cast the _Speak wi
 **The Search for Aetheric Nodes:** Certain locations, such as deep within the earth, at the peaks of mountains, or near powerful natural phenomena, may have higher concentrations of Aether. These "Aetheric Nodes" could become sites of pilgrimage, scientific study, or even conflict.
 
 **Lost Technologies:** The Collapse may have destroyed or hidden advanced Aetheric technologies developed by the ancient civilizations. These lost technologies could be powerful artifacts or forgotten knowledge that could reshape the world if rediscovered.
+
+It is possible to tell apart Aetherborns based on the color of their energy, IF you have the ability to see it/they let it be shown. Skilled users are able to mask it

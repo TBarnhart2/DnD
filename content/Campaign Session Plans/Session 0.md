@@ -101,16 +101,49 @@ As you open your eyes, you don't see this energy
 No matter the case, read
 
 ```
-Heimerdinger: *sign*, If you focus hard enough you can feel even the faintest whispers of a mouse.
+After a few more moments, everything suddenly feels... slow, almost as if youre stuck in place. You see the larger creature stand up in front of you. He cracks his knuckles. As he stands, you can see green reptile-like skin, with his arms covered in wrapping.
 
-Tua: Andddd you ruined it
+Tua: Let's keep this short. You've got 30 seconds. If you beat me, I'll give you Tatang.
 
-The larger creature begins to standup, closely followed by the shorter creature.
+You see a small green wyvern fly around you and land on his shoulder.He begins unwrapping his arms.
 
-Heimerdinger: Well hello there! My name is Professor Heimerdinger, and this is Tua. It is so nice to meet you! Well, again.
+Tua: Butttt I don't see that happening. I'm not gonna hold back. Ready?
 
-You recognize this man as the man you saw in the hospital
+You notice the smaller creature, still meditating, has a floating hour glass above his head, about to flip over. The larger creature leaps across the room and lands gently in the center.
+
+Roll for initiative
 ```
+
+There is no way for the player's to beat Tua. Heimerdinger will heal him throughout the fight
+
+Option 1: All players don't do well (Tua 1/2 HP+)
+```
+Tua: Wow, were you guys even trying? I was just beginning to enjoy myself.
+
+The larger creature walks over to the smaller one, and pulls his hood down. He begins rewrapping his arms while walking to the door.
+
+Tua: Come back to me when you'll actually put up a fight.
+
+With that, you see the large Turtle-like creature open and shut the front door.
+
+Heimerdinger: Sorry about him, he's not one for talking. The name's Professor Cecil B. Heimerdinger, but you can just call me Professor Heimerdinger. The bigger gentleman's name is Tua. 
+
+```
+
+
+Option 2: Players do alright (Tua 1/4 - 3/4 HP+)
+```
+Tua: Well I'll be. A few more rounds and maybe you woulda stood a chance. Oh well. 
+
+You see his hood come down and you see a large turtle-like creature stand before you. He walks over to the smaller creature, and begins wrapping his arms.
+
+Tua: The name's Tua.
+
+Heimerdinger: And my name is Professor Cecil B. Heimerdinger, but you can just call me Professor Heimerdinger.
+```
+
+
+
 
 Tua and Heimerdinger will explain to them that they are part of an organization called The White Lotus. They are currently looking for a piece of a powerful magic item called The Aetheric Lens.
 
@@ -120,8 +153,10 @@ Heimerdinger and Tua both believe that a new war is about to break out from the 
  - Here they explain what the Aetherborn groups are, and what we know about them
 - They feel a war because the Aether feeling they feel keeps growing stronger
 	- The players who saw the dream are part of it
+- From what they know, the Sunborn are trying to overtake the Shadowborn and are looking for pieces of the Aetheric Lens, which you are going to beat them to.
+- Tua and Heimerdinger are busy doing other things.
 
-Their first task is to go to The Expanse and search for "The Temples of the Shifting Sands"
+Their first task is to go to The Expanse and search for "The Temple of the Shifting Sands"
 
 *Here is the end of session 0*
 
