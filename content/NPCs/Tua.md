@@ -4,7 +4,7 @@
 ## Stats
 **Name:** Tua
 
-**Height:** 5'9"
+**Height:** 5'11"
 
 **Weight:** 495 lbs
 
