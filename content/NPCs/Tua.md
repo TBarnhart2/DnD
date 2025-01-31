@@ -10,7 +10,7 @@
 
 **Age:** 21
 
-**Class:** Monk 6
+**Class:** Monk 8
 
 **Subclass:** Way of Mercy
 

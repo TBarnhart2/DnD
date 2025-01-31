@@ -4,6 +4,7 @@ draft: "true"
 ### Plans
 - [[Party's Adventure|Cross T's and Dot i's]]- Make sure characters are good
 - Give gold (200 gp)
+- Equipment Shop overview
 - Give magic items
 - Where Were We? 
 - Official Run

@@ -1,3 +1,8 @@
+---
+draft: "true"
+---
+
+
 This session will be 1/2 of the Temple of the Shifting Sands, where the players will find the temple and begin to explore it.
 
 In this session, they will meet some opposition and decide if they will fight, reason, or work together
