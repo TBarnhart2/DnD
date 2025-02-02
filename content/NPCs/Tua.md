@@ -18,6 +18,8 @@
 
 **Background:** Traveler
 
+Tua sucks at names and will always get them wrong  (whether on purpose or not)
+
 #### Tatang
 Tatang is a baby Green Wyvern that is loyal to Tua
 

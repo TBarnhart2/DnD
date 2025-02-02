@@ -6,9 +6,39 @@ draft: "true"
 - Give gold (200 gp)
 - Equipment Shop overview
 - Give magic items
+- WE are telling a STORY
+- How to be Creative
 - Where Were We? 
 - Official Run
 
+### WE are telling a STORY
+This DnD campaign (and Dnd in general) is the worlds greatest narrative. I am not telling a story, WE are. This isn't a video game, where your characters can do stupid shit and I'll let you. We are telling the greatest story of all time!
+
+As such, if you want something to happen, take the stage! I will ask you to describe something happening, and I want you to help tell the story as to how you see it. I may ask about what a tavern looks like, or to describe an NPC. Have fun with it! I will help play into it. If you character would do something, do it! You are your character!
+This is NOT a you vs me game, but rather us working together to make the coolest story possible. "It's crazy but it just might work" is the perfect line to ride. 
+
+Example: 
+```
+You are meeting a mysterious hooded figure at a The Silver Spoon tavern, where you expect to get more information about who stole the Lion's eye gem. Braidyn, what do you see? What is this tavern like? 
+
+Zach, what does the barkeep look like?
+```
+
+I also know most of the rules but don't know them all and will get them wrong. Don't be afraid to correct me! If I tell you that you get surprised and stabbed in the back, and you have the Alert feat (which prevents you from being surprised), tell me and I will retcon what I said. Keep me responsible, use your class feats to your advantage.
+
+
+### How to be Creative
+The best way to be creative is try stuff. I will tell you if something isn't possible, and if something is a really bad idea, I'll generally caution you a bit.
+
+```
+In front of you, you see a small golden stone, somewhat translucent. You would like to instect it. How are you inspecting it?
+```
+Most commonly, people will just "look at it" and roll investigation and call it a day. Instead of this, I want you to be more specific. 
+- Maybe you try to investigate it to see if it would fit in a small hole in the wall you saw in the other room. 
+- Maybe you want to inspect it to see if you recall it from old history books you've read. 
+- Maybe you want to know if it has magical power. 
+- Maybe you want to know if it's likely part of a larger magical item. 
+These are all unique things that tell you different things about the item. 
 
 ### Official Run
 
@@ -37,6 +67,8 @@ You also feel a pull backwards, almost like reality coming to grab you
 
 Regardless of their answer, they all wake up in the hospital, with minor wounds.
 
+If anyone reached out to touch it, the person with the highest role wakes up with a small yellow-orange "marble" in the palm of your hand.
+
  Soon after waking, they begin to talk to counselors and nobles asking what happened
 They answer for a couple min, and then the counsel leaves
 
@@ -61,9 +93,11 @@ The boarding dock is down and they can go on it
 There is 1 staircase down to the lower floor, with a locked door at the bottom. In the captains room, there is another note of the same kind, along with a set of keys on a large keychain
 
 ```
-Follow the stone
+Follow the stone - it will guide you to immense wisdom
 
-P.S. Don't break it
+(in another handwriting, much dirtier and rugged, reads)
+
+P.S. Don't fucking break my ship.
 
 T & H
 The White Lotus
