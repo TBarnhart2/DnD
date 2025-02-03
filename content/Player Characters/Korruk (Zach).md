@@ -1,4 +1,5 @@
 ![[Pasted image 20250202190919.png]]
+
 [[New_Character_Paladin2.pdf]]
 
 ## Stats

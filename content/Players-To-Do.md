@@ -11,6 +11,40 @@ Everyone needs to make their DnD character at level 3! We are using the new DnD 
 
 *Tip 2:* Want to play Ranger? HA! **DON'T!!*** They suck ASS. Play fighter and just choose stuff to make you a ranger (unless you have a very specific Ranger build you want to play, ask me so I can help out)
 
+
+
+Arcana
+- Candle of the Deep - Candle that can't go out with water
+- Robe of Useful Items - Robe with patches on it
+	- 2 daggers
+	- 2 bullseye lanterns
+	- 2 steel mirrors
+	- 2 10-ft poles
+	- 2 50ft ropes
+	- 2 potato sacks
+	- A 2x4ft Window
+	- A 24ft Ladder
+	- A bag of 100gp
+	- 4 pots of healing
+	- A 12ft long Rowboat
+- Bracers of Defense +2AD when no shield or armor
+
+Armaments
+- Cast-Off Armor - 1 Action to take off armor
+- Smoldering Armor - Armor/robe just smokes (broodingly)
+- Gauntlets of Ogre Power - Str goes to 19 when worn
+
+Implements
+- Sylvan Talon Dagger - While this weapon is on your person, you understand the nonwritten communication of all Fey, and they understand yours. You can also cast message once per day.
+- Boots of Elvenkind - Your steps have no sound. Adv on stealth to move silently
+
+Relics
+- Ruby of the War Mage - Can use a weapon as a spellcasting focus
+- Pot of Awakening - In 30 days, this potted plant becomes a [shrub](https://roll20.net/compendium/dnd5e/Awakened%20Shrub#content) that is friendly to you
+- Periapt of Wound Closure - You can't fail death throws & double HP regain on hit die (pendant)
+
+
+
 ###### Key
 **Important**
 *Goes On Sheet Somewhere*
