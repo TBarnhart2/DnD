@@ -39,3 +39,6 @@ In her sorrow, Selûne cast him down, stripping him of her divine grace. Now, a 
 
 ## Magic Items
 
+- Cast-Off Armor - 1 Action to take off armor
+- Sylvan Talon Dagger - While this weapon is on your person, you understand the nonwritten communication of all Fey, and they understand yours. You can also cast message once per day.
+- Ruby of the War Mage - Can use a weapon as a spellcasting focus

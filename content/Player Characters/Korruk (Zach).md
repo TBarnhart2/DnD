@@ -37,4 +37,6 @@ He has since been on mission, seeking out those who have chosen the path of evil
 
 
 ## Magic Items
-
+- Smoldering Armor - Armor/robe just smokes (broodingly)
+- Boots of Elvenkind - Your steps have no sound. Adv on stealth to move silently
+- Periapt of Wound Closure - You can't fail death throws & double HP regain on hit die (pendant)

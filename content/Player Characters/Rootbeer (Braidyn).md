@@ -43,3 +43,16 @@ Edna passed away peacefully in her chair. As if knowing her time had come, she c
 
 ## Magic Items
 
+- Bracers of Defense +2AC when no shield or armor
+- Robe of Useful Items - Robe with patches on it
+	- 2 daggers
+	- 2 bullseye lanterns
+	- 2 steel mirrors
+	- 2 10-ft poles
+	- 2 50ft ropes
+	- 2 potato sacks
+	- A 2x4ft Window
+	- A 24ft Ladder
+	- A bag of 100gp
+	- 4 pots of healing
+	- A 12ft long Rowboat

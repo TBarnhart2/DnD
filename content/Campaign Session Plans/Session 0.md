@@ -179,7 +179,6 @@ Heimerdinger: And my name is Professor Cecil B. Heimerdinger, but you can just c
 
 
 
-
 Tua and Heimerdinger will explain to them that they are part of an organization called The White Lotus. They are currently looking for a piece of a powerful magic item called The Aetheric Lens.
 
 Heimerdinger will explain that he is looking to do research on "The Magical 4", believing that they hold the secrets of the Aether.

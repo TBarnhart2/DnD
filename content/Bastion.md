@@ -1,5 +1,5 @@
-![[Bastion 1_26x24.png]]
 
+![[map_25x26.png]]
 ### Your Bastion
 
 #### Basic Facilities
