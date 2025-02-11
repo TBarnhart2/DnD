@@ -55,3 +55,4 @@ Parents names:
 
 - Gauntlets of Ogre Power - Str goes to 19 when worn
 - Pot of Awakening - In 30 days, this potted plant becomes a [shrub](https://roll20.net/compendium/dnd5e/Awakened%20Shrub#content) that is friendly to you
+- White Lotus Sending Stone - Once per day can send 1 sentence to the other holder (Tua/Heimerdinger)

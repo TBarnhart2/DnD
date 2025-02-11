@@ -24,7 +24,58 @@ Opposite the Captain's Quarters is a large map room, with a table in the center 
 
 
 #### Special Facilities
+##### Garden
 
+*Level 5 Bastion Facility*
+
+**Prerequisite:** None
+**Space:** Roomy or Vast 
+**Hirelings:** 1 (Roomy) or 2 (Vast)
+**Order:** Harvest
+
+A Bastion can have more than one Garden. Each time you add a Garden to your Bastion, choose its type from the options in the Garden Types table.
+While in your Bastion, you can instruct the facility's hireling to change the Garden from one type to another. This work takes 21 days, during which time no other activity can occur in this facility.
+
+**Harvest: Garden Growth.** When you issue the Harvest order to this facility, you commission the facility's hireling to collect items from the Garden as noted in the Garden Types table. The work takes 7 days and costs no money.
+
+***Garden Types***
+
+| Garden Type | Description                                                                            | Harvest                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Decorative  | Aesthetically pleasing garden full of flowers and topiaries.                           | Ten exquisite floral bouquets (worth 5 GP each), ten vials of Perfume, or ten Candles    |
+| Food        | Garden of delicious mushrooms or vegetables                                            | 100 days worth of Rations                                                                |
+| Herb        | Garden of rare herbs, some of which have medicinal uses                                | Herbs that are used to create either ten Healer's Kits or one Potion of Healing          |
+| Poison      | Garden stocked with plants and fungi from which poisons and antitoxin can be extracted | Plants that are used to create either two vials of Antitoxin or one vial of Basic Poison |
+
+**Enlarging the Facility.** You can enlarge your Garden to a Vast facility by spending 2,000 GP. A Vast Garden is equivalent to two Roomy Gardens and can include two of the same type of Garden or two different types. When you issue the Harvest order to a Vast Garden, each component garden produces its own harvest. A Vast Garden gains one additional hireling.
+
+##### Library
+
+*Level 5 Bastion Facility*
+
+**Prerequisite:** None
+**Space:** Roomy
+**Hirelings:** 1
+**Order:** Research
+
+This Library contains a collection of books plus one or more desks and reading chairs.
+
+**Research: Topical Lore.** When you issue the Research order to this facility, you commission the facility's hireling to research a topic. The topic can be a legend, a known event or location, a person of significance, a type of creature, or a famous object. The work takes 7 days. When the research concludes, the hireling obtains up to three accurate pieces of information about the topic that were previously unknown to you and shares this knowledge with you the next time you speak with them. The DM determines what information you learn.
+
+##### Sanctuary
+
+*Level 5 Bastion Facility*
+
+**Prerequisite:** Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
+**Space:** Roomy
+**Hirelings:** 1
+**Order:** Craft
+
+Icons of your religion are displayed in this facility, which includes a quiet place for worship.
+
+**Sanctuary Charm.** After spending a Long Rest in your Bastion, you gain a magical Charm (see "Supernatural Gifts" in chapter 3) that lasts for 7 days or until you use it. The Charm allows you to cast Healing Word once without expending a spell slot. You can't gain this Charm again while you still have it.
+
+**Craft: Sacred Focus.** When you issue the Craft order to this facility, you commission the facility's hireling to craft a Druidic Focus (wooden staff) or a Holy Symbol. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
 
 ##### Hirelings
