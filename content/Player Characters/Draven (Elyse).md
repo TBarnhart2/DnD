@@ -11,7 +11,7 @@
 
 **Age:** 42
 
-**Class:** Cleric 3 
+**Class:** Cleric 4
 
 **Subclass:** Twilight
 
@@ -26,6 +26,8 @@
 ##### Magic Initiate
 
 ##### War Caster
+
+##### Resilient (Con)
 
 
 ## Backstory
@@ -42,3 +44,17 @@ In her sorrow, Selûne cast him down, stripping him of her divine grace. Now, a 
 - Cast-Off Armor - 1 Action to take off armor
 - Sylvan Talon Dagger - While this weapon is on your person, you understand the nonwritten communication of all Fey, and they understand yours. You can also cast message once per day.
 - Ruby of the War Mage - Can use a weapon as a spellcasting focus
+
+#### Devil Fruit
+###### Passive
+- +4 Str
+- +2 Con
+
+###### Human Form
+- Gore Attack - PB+Str to Hit, 1d8+Str Pierce
+- Stomp Attack - PB+Str to Hit, 2d10+Str Blud (Target must be prone)
+- Trampling Charge - If you move 30ft towards a target before hitting them with a Gore attack, they take an extra 1d8 damage and make a Str Save or be knocked prone (DC = 10+Str)
+	- If knocked prone, you can make a Stomp attack as a bonus action
+
+###### Beast Form
+![[Pasted image 20250302110615.png]]

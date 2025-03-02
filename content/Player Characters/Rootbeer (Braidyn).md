@@ -10,7 +10,7 @@
 
 **Age:** 18
 
-**Class:** Sorcerer 3
+**Class:** Sorcerer 4
 
 **Subclass:** Draconic
 
@@ -23,6 +23,9 @@
 ##### Tough
 
 ##### War Caster
+
+##### Fey Touched
+
 
 ## Backstory
 As an abandoned egg, Rootbeer was found by Old Mother Edna, a kindly but eccentric woman known throughout D’unda as the "Cat Witch." Her home was overflowing with strays—tabbies, calicos, even a particularly mean one-eyed sphynx named Grumbles. Naturally, Edna raised Rootbeer just as she did her cats. 

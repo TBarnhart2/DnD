@@ -11,7 +11,7 @@
 
 **Age:** 32
 
-**Class:** Cleric 3 
+**Class:** Cleric 4
 
 **Subclass:** Light
 

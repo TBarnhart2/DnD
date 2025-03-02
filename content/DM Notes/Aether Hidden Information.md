@@ -1,6 +1,12 @@
 ---
 draft: "true"
 ---
+## Important Characters
+Korruk - Whisperwind
+Tua - Skyward
+Heimerdinger - Sunborn
+Alora - Stonebinders
+Draven - Stonebinders
 
 ## Aetherborn Groups
 #### The Whisperwind
@@ -45,9 +51,7 @@ draft: "true"
 - **Goals**: To protect the secrets of the earth's core and the delicate balance of the subterranean world. They may also seek to understand the origins of Aether and its connection to the earth's energy.
 - **Historical Significance**: The Deepdwellers may have been responsible for the development of early mining techniques, the understanding of geological formations, and the creation of subterranean structures.
 
-## The Magical 4
-
-#### The Aetheric Lens
+## The Aetheric Lens
 ![[Pasted image 20250124174742.png]]
 A device that allows the user to see the flow of Aether, not just in themselves or in objects, but in the very fabric of reality. This would be incredibly valuable for:
 
@@ -64,59 +68,25 @@ When a party member attunes to the Aetheric Lens, they gain the ability to cast 
 
 
 
-#### The Heart of Aether
-![[Pasted image 20250124175037.png]]
-**The Heart of Aether:** A powerful artifact that could temporarily stabilize and amplify the flow of Aether in a specific location. This could be used to:
-
-- **Boost agricultural yields:** Create localized zones of enhanced growth, combating famine and increasing food production.
-- **Heal the land:** Reverse environmental damage caused by past Aetheric misuse, such as areas of depleted Aether or regions scarred by past conflicts.
-- **Power grand projects:** Provide a sustainable and renewable energy source for massive undertakings, such as building colossal structures, terraforming barren lands, or even powering intercontinental transportation networks.
-
-When attuned to the Heart of Aether, the party gains a pool of temporary hit points equal to their level. These temporary hit points refresh at the start of each of their turns. Additionally, the party gains advantage on saving throws against spells and other magical effects.
-
-###### Pieces
-- Top Half
-- Left Half
-- Right Half
-
-
-
-####  The Weaver's Loom
-![[Pasted image 20250124175151.png]]
-**The Weaver's Loom:** A device that could manipulate the very fabric of reality on a small scale, allowing the user to alter the properties of objects, create illusions, or even temporarily alter the laws of physics. This could be used for:
-
-- **Crafting:** To create incredibly durable and versatile materials, enchant weapons and armor with powerful effects, or even craft items with extraordinary properties.
-- **Exploration:** To overcome seemingly insurmountable obstacles, such as traversing treacherous terrain, navigating dangerous environments, or accessing hidden locations.
-- **Combat:** To create powerful illusions, disrupt enemy attacks, or even manipulate the battlefield itself.
-
-When attuned to the Weaver's Loom, the party gains the ability to cast the _Illusion_ spell once per long rest. Additionally, while attuned, the party can create minor illusions as a bonus action.
-
-###### Pieces
-- 
-
-
-
-#### The Soulstone
-![[Pasted image 20250124175225.png]]
-**The Soulstone:** A device that could interact with the soul, allowing the user to:
-
-- **Communicate with the dead:** To seek guidance from past masters, uncover lost knowledge, or even contact long-lost loved ones.
-- **Heal mental and emotional wounds:** To alleviate suffering, overcome trauma, and even restore lost memories.
-- **Enhance their own abilities:** To unlock hidden potential, increase their understanding of the universe, and even achieve a higher state of consciousness.
-
-When attuned to the Soulstone, the party gains the ability to cast the _Speak with Dead_ spell once per long rest. Additionally, while attuned, the party gains advantage on Charisma (Intimidation) and Charisma (Persuasion) checks.
-
-###### Pieces
-- Top Half
-- Bottom Half
-- "Glue" - This needs to be something extremely hard to get - blood? Tears of a dragon?
-
 ## Hidden Info
 
-**Aetheric Storms:** Sudden shifts in the flow of Aether can cause unpredictable events – powerful storms, localized surges of energy, or even temporary disruptions in technology. These events could be used as plot hooks, forcing characters to adapt and overcome unexpected challenges.
-
-**The Search for Aetheric Nodes:** Certain locations, such as deep within the earth, at the peaks of mountains, or near powerful natural phenomena, may have higher concentrations of Aether. These "Aetheric Nodes" could become sites of pilgrimage, scientific study, or even conflict.
-
-**Lost Technologies:** The Collapse may have destroyed or hidden advanced Aetheric technologies developed by the ancient civilizations. These lost technologies could be powerful artifacts or forgotten knowledge that could reshape the world if rediscovered.
-
 It is possible to tell apart Aetherborns based on the color of their energy, IF you have the ability to see it/they let it be shown. Skilled users are able to mask it
+
+#### Aetherborn Alliances
+Aetherborns are in 3 different groups - dormant, trying to take over, and trying to stop them
+
+###### Dormant
+- Deep Dwellers
+- Moonwhisperers
+
+###### World Domination
+- Whisperwind
+- Shadowborn
+
+###### World Peace
+- Sunborn
+- Stonebinders
+- Skyward
+
+#### Elon Musk
+Elon Musk is the highest member of the Deepdwellers, and took a piece of the Lens

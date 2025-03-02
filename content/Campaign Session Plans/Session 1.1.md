@@ -39,7 +39,7 @@ The Sphinx gives 4 riddles
 2. I have cities, but no houses; forests, but no trees; and water, but no fish. What am I? (A map/globe)
 3. What has no voice but can still tell stories? (A book, a painting, a scar, a ruin)
 4. What faction of Aetherborns first discovered Aetherium? (Stonebinders)
-Each incorrect guess is a wis save or 1d6 psychic damage (DC 16)
+Each incorrect guess is 1d6+3 psychic damage
 
 Once all are answered correctly, the door to Room 5 will open
 
@@ -62,8 +62,7 @@ The final boss is a large stone golem that is made of sand
 Cut HP to 80 and AC to 14
 Remove magic damage immunity
 Prof Bonus +2
-No Slam
-SLAM - +8 to hit, 2d6+2 Blud Damage
+SLAM - +8 to hit, 2d8+3 Blud Damage
 If a creature is hit by slam twice in 1 round, it is grappled (DC 13) and effected by ***Smother***
 _**Smother.**_ The golem smothers a Medium or smaller creature [grappled](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Grappled "5e SRD:Conditions") by it. The smothered target is [restrained](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Restrained "5e SRD:Conditions"), [blinded](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Blinded "5e SRD:Conditions"), and unable to breathe, and it must succeed on a DC 13 [Constitution](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") [saving throw](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throw "5e SRD:Saving Throw") at the start of each of the golem's turns or take 10 (2d6 + 3) bludgeoning damage. If the golem moves, the smothered target moves with it. The golem can have only one creature smothered at a time.
 
@@ -75,12 +74,15 @@ The lens piece would be sitting in a small pedestal, but is replaced with the no
 #### Circular Room
 This is a burnt out fire place, which has something inside if it (investigation 18 if not touched, DC 5 if embers are moved)
 
-**Shifting Sands Amulet (Common)**
+**Shifting Sands Amulet
 - **Appearance:** A small, smooth stone that constantly changes color and texture, mimicking the sand around it.
 - **Properties:** This amulet allows the wearer to blend seamlessly into sandy environments. While worn, the wearer has advantage on Stealth checks made in sandy or desert terrains. Additionally, once per day, the wearer can use the amulet to create a small cloud of sand, granting them advantage on a single Dexterity (Acrobatics) check or granting disadvantage on a single attack roll against them.
 
 
 ### Back to Esari
+
+They all have handy haversacks on the ship with their names on it for each of them
+
 When they get back to Esari, Tua and Heimerdinger are meditating yet again in the temple. They will ask the players what happened, and when they see the Black Thorn paper, they will telepathically talk and then tell them about an upcoming auction that the Black Thorn is rumored to be involved in, where they are likely selling the piece.
 
 This auction is in 5 days and Tua and Heimerdinger can get them tickets in. Heimerdinger will join them. 

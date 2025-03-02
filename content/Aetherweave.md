@@ -37,3 +37,18 @@ Aetherium, typically found in deep caverns and within certain mountain ranges, i
 - **Location:** Hidden in the shadows of major cities, operating as secret societies, guilds, or even criminal organizations. Some may reside in remote, inhospitable regions.
 - **Known:** To some as shadowy figures, spies, or even assassins. Their motives are often shrouded in mystery.
 - **Goals:** To protect the world from the potential dangers of unchecked Aetheric technology. Their methods may range from peaceful observation to active intervention, depending on the group.
+
+## The Aetheric Lens
+![[Pasted image 20250124174742.png]]
+A device that allows the user to see the flow of Aether, not just in themselves or in objects, but in the very fabric of reality. This would be incredibly valuable for:
+
+- **Aetheric Engineers:** To optimize their designs, identify weaknesses in their creations, and even predict potential malfunctions.
+- **Explorers:** To navigate treacherous terrain, locate hidden Aetheric nodes, and even find lost civilizations or hidden treasures.
+- **Aetherborn:** To understand their own abilities better, control their powers more precisely, and even communicate with other Aetherborn across vast distances.
+
+When a party member attunes to the Aetheric Lens, they gain the ability to cast the _Detect Magic_ spell once per long rest. Additionally, while attuned, the party gains advantage on Wisdom (Perception) checks to notice hidden objects, creatures, or traps concealed by magical means.
+
+###### Pieces
+- Crystal Lens
+- Outer Casing
+- Small Blue Stone
