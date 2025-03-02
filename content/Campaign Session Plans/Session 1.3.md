@@ -14,8 +14,6 @@ Alora gets her shrub
 
 What do you do in your free time? Give bonuses based on what they do sometimes
 
-## To-Do
-
 #### Before Starting
 - Give Morgan Shrub & Elyse Elephant (Elyse Religion = +2 not +5)
 - Talk about writing the story with me
@@ -54,6 +52,15 @@ You eventually make it to warehouse 714, and what stands in front of you is a sl
 ```
 
 Insert puzzle to get into underground area
+
+```
+"I have no form, yet I shape all things. I have no voice, yet I speak to kings. I have no substance, yet I can break mountains.
+
+I am born of doubt, and thrive in shadows. I am the unseen hand, that guides the gallows.
+
+I am the whisper of change, the echo of fear, Tell me, traveler, what am I here?"
+```
+Influence, Power, Rumor, Gossip, Fear, Doubt
 
 #### Inside the Ring
 ```
@@ -101,7 +108,7 @@ The group might go try to talk to her - if they want to join, she will offer a m
 
 #### Going to the Library
 **Known Info**
-- Book title is ""
+- Book title is "The Luminary Archive: A Historical Analysis of Magical Phenomena"
 - IDs are needed to get into the library for all members, which are handed to a front desk lady
 - Students and ex-faculty can get in
 - Library is open 24/7, and often has students and faculty studying inside
