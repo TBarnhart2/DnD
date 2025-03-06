@@ -28,8 +28,6 @@ What do you do in your free time? Give bonuses based on what they do sometimes
 - Info is your choice to give or not
 	- To other players and to NPCs
 
-
-
 #### Getting the Note
 Whilst on board the ship, Lyra runs up to them and hands them a flier for a meeting for the Rising. 
 
@@ -73,6 +71,8 @@ Inside is a ring of about 200 people around a center stage that was clearly used
 A girl named Elara 'Razor' Vaellyn walks out to the center of the ring and quickly the crowd silences to listen. You can tell that she seems to be high up in the Rising cause. Elyse, what does she look like?
 ```
 
+*Taller human, very rugged, scars on her face, missing an arm (robotic replacement) (smoking hot)*
+
 
 **Reasons To Overthrow**
 - Forest council has been creating laws to create greater social divide between the higher and lower classes
@@ -104,7 +104,6 @@ The group might go try to talk to her - if they want to join, she will offer a m
 - She doesn't know who the Reaper is and have only spoken directly with them twice - they wear an all black robe with a white plague mask - they use a voice changer (and alter-self spell is decently common)
 - There are many smaller factions around the world - generally 1 in each city. She is the rep of Jakunta
 - All of the representatives of each city meet monthly
-- 
 
 #### Going to the Library
 **Known Info**
