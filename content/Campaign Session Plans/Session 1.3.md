@@ -1,7 +1,6 @@
 ---
 draft: "true"
 ---
-
 ## Overview
 Go over "writing the story together" more
 - You can do shit and I'll follow suit
@@ -68,7 +67,7 @@ As you decent the stairs, you can hear loud voices coming from below. An orange-
 Inside is a ring of about 200 people around a center stage that was clearly used previously as a boxing ring.
 
 ```
-A girl named Elara 'Razor' Vaellyn walks out to the center of the ring and quickly the crowd silences to listen. You can tell that she seems to be high up in the Rising cause. Elyse, what does she look like?
+A girl named Elara Vaellyn walks out to the center of the ring and quickly the crowd silences to listen. You can tell that she seems to be high up in the Rising cause. Elyse, what does she look like?
 ```
 
 *Taller human, very rugged, scars on her face, missing an arm (robotic replacement) (smoking hot)*
