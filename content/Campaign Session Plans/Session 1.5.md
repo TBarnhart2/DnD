@@ -8,11 +8,6 @@ Raid a government lab, where a lens piece is rumored to be
 The piece isn't there and was raided before they got there (Razor)
 Talks with Heimerdinger and Tua, where they will be confronted (fight Tua and Heimerdinger?)
 
-## To-Do
-- Tell Zach that Razor wants him to activate the lens piece in the Capital of Jakunta, as it works better with lots of Aether crystals around it (center of the city has lots)
-- Create Catalyst group members
-- Bearded Devil Owlbear
-
 #### Rising Meeting
 Following Friday, at Dusk
 Same vibe as last time, though it's a different person now
@@ -32,6 +27,8 @@ Same vibe as last time, though it's a different person now
 
 ###### Speech
 
+Kevinith - Male - Short dragonborn - red/grey - high pitched voice
+![[Pasted image 20250331172212.png]]
 ```
 Zach, what does the person look like who comes out on the stage?
 ```
@@ -64,8 +61,6 @@ Elora was found in the meeting room a couple days earlier with a needle sent dir
 - They are distraught from the death but "we must keep moving"
 
 
-The new guy will ask for the info from the book, and will tell them that it's extremely important that they steal one of the pieces from a government laboratory in Skoda (at the Cinderwind College)
-
 He will hand them a special sending stone with a voice recorded message straight from The Reaper
 
 ```
@@ -82,6 +77,8 @@ Without this task, we fear that the government will use the lens to prevent the 
 
 They will be joined by the Catalyst, which is an extreme Raiding group which mainly deal with the hardest missions for the Rising. Their ideals are questionable, and some of the higher ups in the Rising disagree with their methods
 
+Braidyn left the notes for the Aetheric lens piece to the dragonborn
+
 #### Zach/Korruk Call
 Call from Elon asking him how things are going and telling him to fit in at ALL costs
 Hope Zach tells him about the final location of the lens Piece
@@ -89,8 +86,34 @@ Razor is giving the 2 pieces of the lens to Korruk and tells him to activate the
 DM note - do it in a really cool moment (This will be pretty much the final moment of the first Act, so don't do it 20 min in, aim for like 3-4 hours in) I will tip you off if I'm running out of content, but do it on your own call
 When you want to take the lens piece from someone else on the team, I will allow you to switch to your "level 14 self", which in lore is your actual skill. Basically, go to attack one of your team-members and basically say you're going to try to knock out the person with the piece. I'll change your "damage" according to you being level 14 and not level 4, so it'll always knock them out if they don't expect it
 
-#### Labratory
+#### Laboratory
 ![[Pasted image 20250318083914.png]]
+
+###### Meeting the Catalyst Group
+3 members of the group
+1 is Braidyn's next character
+
+###### Valeria Nightshade
+A lithe half-elf woman with midnight-blue skin and silver constellations that seem to shift across her exposed shoulders. Her obsidian plate armor gleams with an inner amethyst light, and the massive greatsword on her back occasionally whispers in forgotten languages. Valeria rarely speaks above a murmur, but when she does, everyone listens. Her calculating gaze evaluates every room for threats before she allows herself even the ghost of a smile.
+
+###### Throne Ironheart
+A mountain of a dwarf with a forked beard braided with tiny adamantine rings, each representing a different impossible quest completed. Burns cover half his face—not from dragon fire but from reaching into the Elemental Plane of Fire to retrieve his enchanted warhammer. Thorne's booming laugh can fill a tavern, but it vanishes instantly when battle approaches, replaced by an unnerving silence and eyes that burn with tactical precision.
+
+###### Whisper
+A figure whose gender, race, and even exact form seem impossible to remember clearly after meeting them. Those who concentrate remember only a hooded cloak of shifting shadows and eyes that glow with a pale green light. Whisper communicates primarily through subtle gestures or by directly placing thoughts into others' minds. Their fingers dance with arcane energy that never fully manifests but constantly threatens to unravel reality around them.
+
+###### Dancer
+Cigar in mouth, doesn't speak much
+
+
+###### Arrival to the Lab
+After around 8 hours of travel, the team will arrive to the secret lab base, deep within a mountain
+The catalyst group will lower the ropes down to the front door
+
+As they ride down the rope, they will find the front door is bent and broken into
+They can easily walk into the lab
+
+While walking around, they will see that the place was obviously ransacked, and they will eventually see 3 people deep inside the lab
 
 ###### Getting into the Lab
 They will meet the Catalyst group at an airship, which will be flown above the lab in the mountains and they will repel in 
@@ -117,20 +140,8 @@ Razor breaks the glass and grabs what you immediately recognize as the final len
 As he looks up, he sees you, smiles, and shows you the lens piece. With a wink, you see a glass container shatter next to you, as a bearded devil flies out of the broken glass. As you look back, Razor is gone
 
 Roll initiative
+
 ```
-
-###### Meeting the Catalyst Group
-3 members of the group
-1 is Braidyn's next character
-
-###### Arrival to the Lab
-After around 8 hours of travel, the team will arrive to the secret lab base, deep within a mountain
-The catalyst group will lower the ropes down to the front door
-
-As they ride down the rope, they will find the front door is bent and broken into
-They can easily walk into the lab
-
-While walking around, they will see that the place was obviously ransacked, and they will eventually see 3 people deep inside the lab
 
 ###### Fight
 While searching the lab, they will see 2 grunts they will fight and Razor, who will take the stone and run
