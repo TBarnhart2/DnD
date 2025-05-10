@@ -2,11 +2,14 @@
 draft: "true"
 ---
 ## Important Characters
-Korruk - Whisperwind
-Tua - Skyward
-Heimerdinger - Sunborn
-Alora - Stonebinders
-Draven - Stonebinders
+Korruk - Shadowborn (Black)
+Tua - Whisperwind (Light Grey/White)
+Heimerdinger - Skyward (Light Blue)
+Alora - Moonwhisper (Deep grey)
+Draven - Stonebinders (Grey)
+Sensei Ugi - Sunborn (Yellow)
+Romeo - Moonwhisperer (Deep grey)
+
 
 ## Aetherborn Groups
 #### The Whisperwind

@@ -7,10 +7,8 @@ draft: "true"
 
 1. As Razor brings the three lens pieces together, they lock into place with an unnatural click
 2. The assembled lens begins to pulse with dark energy, growing brighter and more intense
-3. Lyra and Kaelen reveal themselves as The Reaper, emerging from a hidden passage
-4. "You've all played your parts perfectly," they say in unison, watching as Razor completes the ritual
-5. The lens emits a blinding flash, followed by a dome of purple-black energy that expands outward
-6. The party members feel intense pain and collapse to the ground as darkness overtakes them
+3. The lens emits a blinding flash, followed by a dome of purple-black energy that expands outward
+4. The party members feel intense pain and collapse to the ground as darkness overtakes them
 
 ### Waking in a Charred World
 
@@ -59,9 +57,11 @@ The compass in your hands pulses once, then again, seeming to beckon you toward 
 ### Aetheric Buffs
 +10 Temp HP after every short/long rest
 Allows you to stack temp HP on yourself
-Gain resistance to a damage type you're hit with - 1/LR
+Gain resistance to a damage type you're hit with - 1/LR *(Braidyn)*
 Always know what a magical item does after a minute with it
 Change a hit into a miss against yourself - 1/LR
 Can delay a spell on command - Prof/LR (Cast it and then have it go on a trigger)
 Learn a random spell - 1 free cast per day (4 level)
 Learn a random spell - 1 free cast per week (5-6th level)
+
+All weapons +1

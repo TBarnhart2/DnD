@@ -24,18 +24,51 @@ The Rising is lead by a secret character known as the Reaper, who has never been
 
 The Rising has announced their plans to raid all world government locations in 4 days, in the middle of the night. Our characters have been tasked with going to a secret lab in the mountains where a lens piece is rumored to be held. On the way, Korruk blew his cover as a secret Shadowborn and jumped off the airship, assumed to be dead (he is not). 
 
-At the lab, the party sees Razor take the lens piece, meaning that he has 2 of them and the party has 1. Regardless, the Rising will do their raid anyways, as they don't see this as much of a threat
+At the lab, the party sees Razor take the lens piece, meaning that he has 2 of them and the party has 1. 
+
+Regardless of this, the Rising continued the Raid, with the main party being called to be part of the small group overthrowing the secret world government building. While doing so, they met a new character (who is played by a player at the table) named Sensei Ugi, who worked IT for the world government building, and let them into the building.
+
+After making their way to the council's chambers, the party found Razor was already there, holding the council member's hostage. He kills Rootbeer peacefully, and helps the rest of the party unlock more Aether power. He then activated the lens, causing mass destruction across the world. 
+
+#### Act Two:
+The players woke up in a destroyed world, with the sky a deep red and most things in crumbles. Waking up, the party saw Tua, who gave them a compass that said "find the wellspring", seeming to point to the "wellspring". The player's don't know what the wellspring is. 
+
+There is also a new character who got a similar compass, and will join the party when they all get there. Every person from now on will be touched by the Aether, and will have the Aetherborn tattoos activated. 
 
 
+#### Aether Information:
+From Act 2 on, all characters will be tied to an Aetherborn group. This tie will be visible, as everyone will now have vein-like tattoos with a color corresponding to the group they're from. Each group has a general demeanor, but not all people fit that demeanor (but almost all people will). The groups are the following:
+
+**Sunborn:**
+A more "noble" group, they fit their name. Generally friendly and kind to others, and very successful. Hated by other jealous groups. Sunborns have a bright yellow tattoo. 
+
+**Shadowborn:**
+The "evil" group, they orchestrated the Act 1 world destruction event. Razor is the head of this group, and Korruk is part of this group. They have been largely hidden. Although they are "evil", they always have reasons for their actions, and their reasons are never outlandish. Shadowborns have a deep black tattoo
+
+**Whisperwinds:**
+A lighter faster group, who are very quick witted. Pretty friendly group. Their tattoo is light grey to white. Tua is a whisperwind
+
+**Moonwhisperers:**
+The most central group, can side with shadowborn side or the sunborns. Generally friendly but mostly unheard from. One of the most powerful groups, but largely hidden and quiet. Their tattoo is a deep grey. Alora & Romeo are moonwhisperers
+
+**Skyward:**
+The "smartest" group, tied closely to sunborns. The "queen" to the sunborn "kings". Their tattoo is light blue/white. Heimerdinger is a skyward
+
+**Stonebinders:**
+The most tech-savvy group, creating most of the aether stone powers. Their tattoo is grey. Draven is a stonebinder
+
+**Deepdwellers:**
+Very similar to the Shadowborns, helped with the world destruction. More technological than the shadowborns. Their tattoo is navy blue. 
 
 #### Important Characters:
 Heimerdinger and Tua are 2 members of the White Lotus
 Razor is the head of the Shadowborns and is leading the world takeover
 Lyra and Kaelen are a duo who are the Reaper - the leader of the Rising
 Korruk is a player's character who is secretly a Shadowborn
-Alora is a player's character who was touched by the Aether and her dad is high up in the world government
+Alora is a player's character who was touched by the Aether and her dad is high up in the world government (moonwhisperer)
 Draven is a player's character who was touched by the Aether
-Rootbeer is a player's character who will die at the end of Act 1
+Rootbeer is a player's character who died at the end of Act 1 (no aetheric magic)
+Sensei Ugi is a player's character who worked for the world government
 
 
-The end of Act 1 of the campaign is in 4 days - when the Rising raid happens. The act will end when the lens is activated, causing almost all humans to die and leave primarily aetherborns. With the group going to the World government headquarters for the Rising raid, how can the act end? What does the raid look like? How can I tie in a "new" character for a player to use, since we are adding a character? Does Korruk come back at the raid, or do we see him in the next act? How does the lens piece get used? You are allowed to give characters secret motivations
+

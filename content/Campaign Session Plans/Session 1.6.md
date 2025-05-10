@@ -102,6 +102,15 @@ Join me. Help reshape this world into what it was meant to be."
 
 If the party accepts the deal, Razor will ask for the final lens piece. If not, he will prevent them from moving, and take the piece from them. He will almost instantly kill anyone who tries to fight him. 
 
+#### The Reaper
+Standing in the back of the room is the Reaper, who is Lyra. If the party asks about them, Razor will say he felt his presence enter the room and tell the group that they should know who this is
+
+They give off a very powerful aetheric essence, but it's unlike any before
+
+Razor will describe the reaper as the true mastermind of the operation and is "the God of Aether"
+
+The Reaper will not be shown off
+
 #### The Choice
 Each person will have the personal choice to join the cause - except rootbeer
 
