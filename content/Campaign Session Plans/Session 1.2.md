@@ -147,6 +147,5 @@ As the bidding continues, Alora and Draven, you begin to become dizzy, as this l
 If the characters haven't seen the dream yet, they see it now
 
 
-
 ## Tua Gift
 Tua gives them a Devil Fruit as a gift!

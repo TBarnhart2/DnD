@@ -26,7 +26,7 @@
 
 
 ## Backstory
-Romeo was once an ordinary cat living in the streets of D'Unda. He Loved Rootbeer with all of his heart. He had known of Rootbeers adventures but believed she would be safe. Once the lens piece was activated it transformed Romeo into a human with black cat ears atop his head. Now walking on two legs and speaking with a voice he never had, Romeo is haunted by and enraged by the fact that he couldn't protect her he has swornn an oath to avenge her. 
+Romeo was once an ordinary cat living in the streets of D'Unda. He Loved Rootbeer with all of his heart. He had known of Rootbeers adventures but believed she would be safe. Once the lens piece was activated it transformed Romeo into a human with black cat ears atop his head. Now walking on two legs and speaking with a voice he never had, Romeo is haunted by and enraged by the fact that he couldn't protect her he has sworn an oath to avenge her. 
 
 -Speaks in a very noble tongue 
 - Smokes a mix of tobacco and "catnip" out of a pipe
@@ -36,6 +36,6 @@ Romeo was once an ordinary cat living in the streets of D'Unda. He Loved Rootbee
 
 ## Goals
 
-
+Avenge Rootbeer (Kill Razor)
 
 ## Magic Items

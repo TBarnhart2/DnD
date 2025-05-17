@@ -47,7 +47,6 @@ The well reveals a vast underground forge where grey-tattooed figures work with 
 Looking into the well, you're almost blinded by radiant light as golden-tattooed figures stand atop a floating citadel, channeling pure energy from the sun itself. Their leader, crowned with light, extends his hand to bless supplicants from all factions who come seeking guidance. "We illuminate the path for all," he declares. The vision shifts to show Sunborns establishing the first schools of Aetheric arts, teaching openly until betrayal strikes. You witness their desperate defense as shadow forces corrupt their work, and their final gambit—dispersing their power across bloodlines that would remain dormant for generations. As the vision fades, you see Sunborn elders sacrificing themselves to seal away dangerous knowledge, their bodies becoming vessels of pure light. A voice resonates, "We gave freely what others hoarded. When darkness comes again, remember that true power lies not in dominance but in how many you lift toward the light."
 ```
 
-
 #### Message of Death
 In the town center, there will be 7 people laying down in a circle - dead, but their bodies perfectly preserved, laying on their backs reaching out their hands. Each one has the Aetheric marks, which are glowing with life
 
@@ -63,7 +62,6 @@ Underneath all of them is a thin Aetheric crystal web connecting them all. If so
 After this is finished, the visions will end and the veins will remain lit up. (When a nexus is destroyed, the veins will die out)
 
 Finally, the compasses will glow and the needle will point in a new direction.
-
 
 ## The Rift
 While following the compass, they come across an area of fractured earth - floating islands, jagged rocks, and gaps into an unknown below - looking like the night sky
@@ -95,13 +93,13 @@ Areas between islands have reverse gravity - jumping between islands is with adv
 **Skills:** Arcana +4, Perception +3
 **Damage Resistances:** Cold, Lightning, Thunder
 **Damage Immunities:** Force
-**Condition Immunities:** Charmed, Frightened, Grappled, Petrified, Restrained
+**Condition Immunities:** Charmed, Frightened, Grappled, Petrified, Restrained, Stunned
 **Senses:** Darkvision 60 ft., Truesight 60 ft., passive Perception 13
 **Languages:** Understands all, but can't speak
 **Challenge:** 3 (700 XP)
 **Proficiency Bonus:** +2
-###### Abilities
 
+###### Abilities
 - **Aetheric Form:** The Sentinel's body is in a constant state of flux. As a bonus action, the Sentinel can change its form, gaining one of the following benefits until it uses this ability again:
     - - Reshape:* The Sentinel's reach increases by 5 feet.
     - - Shift:* The Sentinel can move through spaces as narrow as 5 feet without squeezing.
@@ -109,14 +107,11 @@ Areas between islands have reverse gravity - jumping between islands is with adv
 - **Aetheric Instability:** When the Sentinel takes force damage, it must succeed on a DC 13 Constitution saving throw or become unstable. While unstable, the Sentinel has disadvantage on attack rolls, and any creature that starts its turn within 5 feet of the Sentinel takes 3 (1d6) force damage. An unstable Sentinel can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 - **Magic Resistance:** The Sentinel has advantage on saving throws against spells and other magical effects.
     
-
 ###### Actions
 - **Multiattack:** The Sentinel makes two attacks: one with its Aetheric Tendril and one with its Aetheric Pulse.
-- **Aetheric Tendril:** _Melee Weapon Attack:_ +5 to hit, reach 10 ft. (15 ft. if using the Reshape form), one target. _Hit:_ 8 (1d8 + 3) force damage.
-- **Aetheric Pulse:** _Ranged Weapon Attack:_ +5 to hit, range 60 ft., one target. _Hit:_ 10 (2d6 + 3) force damage.
+- **Aetheric Tendril:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft. (15 ft. if using the Reshape form), one target. _Hit:_ 8 (1d8 + 3) force damage.
+- **Aetheric Pulse:** _Ranged Weapon Attack:_ +7 to hit, range 60 ft., one target. _Hit:_ 10 (2d6 + 3) force damage.
 - **Aetheric Cascade (Recharge 5-6):** The Sentinel unleashes a wave of raw Aetheric energy. Each creature in a 15-foot cone originating from the Sentinel must make a DC 13 Dexterity saving throw. On a failure, a creature takes 14 (4d6) force damage and is pushed 10 feet away from the Sentinel. On a success, a creature takes half the damage and isn't pushed.
-
-
 
 ## The First Nexus - Whisperwind
 As they continue to follow the compass, they will eventually stumble upon the First Nexus. 
@@ -154,14 +149,13 @@ _Medium elemental, unaligned_
 - **Speed:** 30 ft., fly 40 ft.
 - **STR:** 10 (+0) **DEX:** 16 (+3) **CON:** 12 (+1) **INT:** 6 (-2) **WIS:** 10 (+0) **CHA:** 7 (-2)
 - **Damage Resistances:** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 - **Senses:** darkvision 60 ft.
 - **Challenge:** 1 (200 XP)
 
 **Aether Form:** The wraith can move through spaces as narrow as 1 inch wide without squeezing.
 
 **Actions:**
-
 - **Gust Strike:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6+3) force damage.
 - **Dispersal (Recharge 5-6):** The wraith disperses into a violent gust, moving up to 30 feet without provoking opportunity attacks. Each creature the wraith moves through must succeed on a DC 13 Strength saving throw or be pushed 10 feet and knocked prone.
 
@@ -174,14 +168,13 @@ _Large elemental, unaligned_
 - **Speed:** 20 ft., fly 60 ft.
 - **STR:** 14 (+2) **DEX:** 18 (+4) **CON:** 12 (+1) **INT:** 8 (-1) **WIS:** 14 (+2) **CHA:** 10 (+0)
 - **Damage Resistances:** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 - **Senses:** darkvision 60 ft.
 - **Challenge:** 3 (700 XP)
 
 **Whirlwind Aura:** At the start of each of the sentinel's turns, each creature within 5 feet of it takes 5 (1d10) force damage.
 
 **Actions:**
-
 - **Multiattack:** The sentinel makes two Wind Slash attacks.
 - **Wind Slash:** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 7 (1d6+4) slashing damage plus 3 (1d6) force damage.
 - **Cyclonic Pull (Recharge 5-6):** The sentinel creates a powerful vortex. Each creature within 15 feet must succeed on a DC 14 Strength saving throw or be pulled up to 10 feet toward the sentinel.
@@ -206,8 +199,7 @@ _Large elemental, unaligned_
 **Unstable Form:** When the guardian drops to 0 hit points, it explodes. Each creature within 20 feet must make a DC 15 Dexterity saving throw, taking 14 (4d6) force damage on a failed save, or half as much on a successful one.
 
 **Actions:**
-
 - **Multiattack:** The guardian makes two Aether Blast attacks.
-- **Aether Blast:** _Ranged Spell Attack:_ +6 to hit, range 60 ft., one target. _Hit:_ 12 (2d8+3) force damage.
+- **Aether Blast:** _Ranged Spell Attack:_ +7 to hit, range 60 ft., one target. _Hit:_ 13 (2d8+4) force damage.
 - **Wind Wall (Recharge 5-6):** The guardian creates a wall of strong wind up to 60 feet long, 10 feet high, and 5 feet thick. The wall lasts until the start of the guardian's next turn. Any ranged weapon attacks that pass through the wall have disadvantage on attack rolls, and any creature that attempts to move through the wall must succeed on a DC 15 Strength saving throw or be pushed 10 feet away from the wall.
 - **Nexus Surge (1/Day):** The guardian absorbs energy from the Nexus. Each creature within 30 feet must make a DC 15 Constitution saving throw, taking 21 (6d6) force damage on a failed save, or half as much on a successful one. The guardian regains hit points equal to half the total damage dealt.

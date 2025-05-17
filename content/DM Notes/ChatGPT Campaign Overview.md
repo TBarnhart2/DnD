@@ -40,7 +40,7 @@ There is also a new character who got a similar compass, and will join the party
 From Act 2 on, all characters will be tied to an Aetherborn group. This tie will be visible, as everyone will now have vein-like tattoos with a color corresponding to the group they're from. Each group has a general demeanor, but not all people fit that demeanor (but almost all people will). The groups are the following:
 
 **Sunborn:**
-A more "noble" group, they fit their name. Generally friendly and kind to others, and very successful. Hated by other jealous groups. Sunborns have a bright yellow tattoo. 
+A more "noble" group, they fit their name. Generally friendly and kind to others, and very successful. Hated by other jealous groups. Sunborns have a bright yellow tattoo. Sensei Ugi is a Sunborn
 
 **Shadowborn:**
 The "evil" group, they orchestrated the Act 1 world destruction event. Razor is the head of this group, and Korruk is part of this group. They have been largely hidden. Although they are "evil", they always have reasons for their actions, and their reasons are never outlandish. Shadowborns have a deep black tattoo
@@ -50,12 +50,13 @@ A lighter faster group, who are very quick witted. Pretty friendly group. Their 
 
 **Moonwhisperers:**
 The most central group, can side with shadowborn side or the sunborns. Generally friendly but mostly unheard from. One of the most powerful groups, but largely hidden and quiet. Their tattoo is a deep grey. Alora & Romeo are moonwhisperers
+Make the Aetheric lens blueprints
 
 **Skyward:**
 The "smartest" group, tied closely to sunborns. The "queen" to the sunborn "kings". Their tattoo is light blue/white. Heimerdinger is a skyward
 
 **Stonebinders:**
-The most tech-savvy group, creating most of the aether stone powers. Their tattoo is grey. Draven is a stonebinder
+The most tech-savvy group, creating most of the aether stone powers. Their tattoo is grey. Draven is a stonebinder. Controlled the veins
 
 **Deepdwellers:**
 Very similar to the Shadowborns, helped with the world destruction. More technological than the shadowborns. Their tattoo is navy blue. 
