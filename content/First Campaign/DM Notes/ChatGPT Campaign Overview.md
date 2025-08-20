@@ -35,6 +35,29 @@ The players woke up in a destroyed world, with the sky a deep red and most thing
 
 There is also a new character who got a similar compass, and will join the party when they all get there. Every person from now on will be touched by the Aether, and will have the Aetherborn tattoos activated. 
 
+In the first session of Act 2, the party learned about the 7 Nexus points, which surround the Wellspring and help stabilize the wellspring. They also learned that each Nexus point corresponds to an Aether faction. Addtionally, it was hinted that there was another secret group that is attempting to drive the world to destruction (known as the voidwalkers, though this is not known by the party and no current characters or NPCs known about are part of the voidwalkers).  (For a hidden fact, one member of the Rising's vigilante group was a voidwalker, as they looked like their skin was a galaxy similar to the void, however no one knows this). 
+After learning about the Nexus points, they were sent to help stabilize the Whisperwind's nexus point, where they entered a massive tornado and 1 of the party members had to focus on stabilizing the Nexus point for 1 minute (10 combat rounds) while the others defended him from waves of wind-themed voidwalker minions. After successfully doing this, the one who stabilized the point leveled up. (This idea of stabilizing the point giving you a level up needs to be carried throughout each point, though 1. these points can be stabilized "off screen" and 2. each nexus point will need 1-3 people per point, helping speed up the leveling process).
+Their compass now points to a new location, which will be explored in session 2.2.
+
+Session 2.2: Cataclysm at the Deepdweller Nexus
+
+**Session Goal:** The party's primary objective was to reach and stabilize the Deepdweller Nexus Point, which was located in a ruined, submerged Deepdweller city deep within a massive chasm. Stabilizing this Nexus was crucial to counter the world's ongoing destruction and would provide a level-up opportunity for 1-3 characters.
+
+**Journey to the Deep:** The session began with the party following their compass, which pulsed with a navy-blue glow, leading them away from the Whisperwind Nexus and towards a gargantuan **Abyssal Chasm**. They navigated a treacherous, crumbling path down its sheer, mist-filled walls, where they discovered a schematic for a **Deepdweller Planetary Seeder**, a massive drill indicating the Deepdwellers' aggressive intentions.
+
+**The Sunken Vault Entrance:** At the chasm's bottom, they found a colossal, circular **Deepdweller vault door**, partially submerged in murky water. To open it, they had to reactivate a control panel via Aetheric channeling and then collaboratively calibrate three pressure seals. As they worked, **three Voidwalker Abyss Lurkers** ambushed them from the stagnant water, attempting to disrupt their efforts with corrosive attacks.
+
+**The Deepdweller Arteries:** Beyond the vault, the party entered a labyrinthine network of dark, angular corridors and chambers, some partially or fully flooded. This section, known as the **Deepdweller Arteries**, hummed with ancient, decaying machinery and leaky pipes. Here, they uncovered a fragmented holographic recording that revealed the Deepdwellers' philosophy of Aether as pure power and control, confirming their ancient, destructive alliance with the Shadowborn. Their progress was then challenged by **three Voidwalker Core Guardians**, robust constructs of abyssal rock and void energy, who engaged them in a grinding combat exacerbated by a ruptured pipe creating an acidic hazard zone.
+
+**The Deepdweller Nexus Chamber - Catastrophe Strikes:** Finally, the party reached the immense, vaulted **Deepdweller Nexus Chamber**, where a vast, swirling pool of intensely glowing navy-blue Aetherium pulsed with raw power. They discovered fragmented data logs revealing Razor's previous presence and his manipulation of this Nexus as part of his larger plan to "cull all non-Aetherborn."
+
+The climactic encounter saw two party members (**Sensei Ugi** and **Draven**) attempting to stabilize the Nexus for ten rounds, making repeated checks, while the other two (including **Alora**) defended them against relentless waves of Voidwalkers.
+
+Throughout the combat, environmental hazards like a slick floor and random Aetheric Surges (minor leaks, empowering flickers, or disruptive waves) added to the challenge.
+
+In the final, desperate round, one of the characters attempting to stabilize the Nexus failed their critical check. This catastrophic failure caused an immense Aetheric backlash, dealing heavy damage to the party and further empowering the Voidwalkers.
+
+Ultimately, the session ended in tragedy. **Sensei Ugi, Draven, and Romeo** perished in the collapsing Deepdweller complex as the very "roots" or foundational structures of the Deepdweller domain beneath the earth ruptured. This catastrophic failure caused the ground to split apart in a massive, world-altering rift. **Alora**, the sole survivor, was violently thrown clear of the collapsing underground ruins and awoke alone on the shattered surface, now facing a world further devastated by the immense new rift. The Deepdweller Nexus remains unstable, its failure having compounded the global cataclysm.
 
 #### Aether Information:
 From Act 2 on, all characters will be tied to an Aetherborn group. This tie will be visible, as everyone will now have vein-like tattoos with a color corresponding to the group they're from. Each group has a general demeanor, but not all people fit that demeanor (but almost all people will). The groups are the following:
